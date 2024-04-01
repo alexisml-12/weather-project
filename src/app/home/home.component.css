@@ -1,0 +1,13 @@
+.div-buttons{
+    display: inline-grid;
+    justify-content: center; 
+}
+
+.div-buttons button {
+    margin: 0 0 12px; 
+}
+
+.text-center h1{
+    position: absolute;
+    margin: 239px 0 0 691px;
+}
